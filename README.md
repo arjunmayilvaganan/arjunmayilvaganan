@@ -8,7 +8,6 @@ I'm happy to see you here. I'm Arjun and I am a Software programmer by professio
 - 🌱 Currently learning Go, Internal workings of Interpretters, Compilers and much more
 - 👯 Looking to collaborate on anything systems or web services
 - 📫 How to reach me: `<firstname><lastname> at gmail dot com`
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Grand Canyon, a national park, is bigger than Rhode Island, a US state
 
 I am also open to new job opportunities 🙂
